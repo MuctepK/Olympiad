@@ -8,7 +8,7 @@
 # [(a, b), ...] or [[a, b], ...] or {{a, b}, ...} or or [{a, b}, ...]
 # with all (a, b) which are the possible removed numbers in the sequence 1 to n.
 #
-# [(a, b), ...] or [[a, b], ...] or {{a, b}, ...} or ...will be sorted in increasing order of the "a".
+# [(a, b), ...] or [[a, b], ...] or {{a, b}, ...} ogit r ...will be sorted in increasing order of the "a".
 #
 # It happens that there are several possible (a, b). The function returns an empty array (or an empty string) if no possible numbers are found which will prove that my friend has not told the truth! (Go: in this case return nil).
 #
