@@ -11,3 +11,5 @@ uploads
 *.sqlite3
 settings_local.py
 config
+CMakeLists.txt
+cmake-build-debug
